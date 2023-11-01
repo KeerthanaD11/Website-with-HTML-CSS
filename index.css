@@ -1,0 +1,101 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    background-color: rgb(58, 55, 55);
+    color: white;
+    padding: 20px;
+}
+li,h1,ul{
+    display: inline;
+}
+ul{
+    padding-left: 60%;
+}
+li{
+    padding-right: 10px;
+    cursor: pointer;
+}
+li:hover{
+    color: gray;
+}
+.order:hover{
+    color: gray;
+    cursor: pointer;
+}
+
+
+input{
+    display: inline-block;
+    width:50%;
+    height: 28px;
+    margin-left: 25%;
+    border: 2px solid gray;
+}
+.quote{
+    
+    margin: 40px;
+    display: inline-block;
+    margin-left: 30%;
+   
+}
+.quote1{
+    margin-left: 68%;
+}
+.searchbar{
+    padding: 50px;
+   
+}
+input{
+    padding: 8px;
+    width: 50%;
+}
+
+.box{
+    display: inline-block;
+    width: 230px;
+    height: 350;
+    cursor: pointer;
+    border: 2px solid gray;
+    margin: 35px;
+}
+.books{
+    text-align: center;
+}
+.box:hover{
+    background-color: gray;
+    color: white;
+}
+.box1{
+    display: inline-block;
+    width: 230px;
+    height: 350;
+    cursor: pointer;
+    border: 2px solid gray;
+    margin: 35px;
+}
+.box1:hover{
+    background-color: gray;
+    color: white;
+}
+.about{
+    text-align: center;
+    background-color: rgb(170, 168, 168);
+    margin: 50px;
+    padding: 10px;
+}
+.contact{
+    background-color: rgb(170, 168, 168);
+    text-align: center;
+    margin: 50px;
+    padding: 10px;
+}
+.contact1{
+    margin: 20px;
+}
+.emoji:hover{
+    color: blue;
+    cursor: grab;
+
+}

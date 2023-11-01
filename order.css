@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    background-color: rgb(58, 55, 55);
+    color: white;
+    padding: 30px;
+}
+.sign{
+    
+    margin: 5%;
+    padding-left: 30%;
+}
+input{
+    padding: 5px;
+}
+.image{
+    display: inline;
+    margin: 13%;
+}
+h3{
+    display: block;
+    margin-left: 14%;
+}
+.box{
+    display: inline-block;
+    width: 230px;
+    height: 350;
+    cursor: pointer;
+    border: 2px solid gray;
+    margin: 35px;
+}
+.books{
+    text-align: center;
+}
+.box:hover{
+    background-color: gray;
+    color: white;
+}
